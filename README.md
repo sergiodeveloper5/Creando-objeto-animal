@@ -1,2 +1,2 @@
-# JAVA - SCRIPT
-JS
+# Creando-objeto-animal
+Creando objeto animal
